@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A50E12721AD6EACA00D26070 /* pattern_1.splice */ = {isa = PBXFileReference; lastKnownFileType = file; name = pattern_1.splice; path = ../resources/pattern_1.splice; sourceTree = "<group>"; };
+		A50E12731AD6EACA00D26070 /* pattern_2.splice */ = {isa = PBXFileReference; lastKnownFileType = file; name = pattern_2.splice; path = ../resources/pattern_2.splice; sourceTree = "<group>"; };
+		A50E12741AD6EACA00D26070 /* pattern_3.splice */ = {isa = PBXFileReference; lastKnownFileType = file; name = pattern_3.splice; path = ../resources/pattern_3.splice; sourceTree = "<group>"; };
+		A50E12751AD6EACA00D26070 /* pattern_4.splice */ = {isa = PBXFileReference; lastKnownFileType = file; name = pattern_4.splice; path = ../resources/pattern_4.splice; sourceTree = "<group>"; };
+		A50E12761AD6EACA00D26070 /* pattern_5.splice */ = {isa = PBXFileReference; lastKnownFileType = file; name = pattern_5.splice; path = ../resources/pattern_5.splice; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A50E126B1AD6EAAD00D26070 = {
+			isa = PBXGroup;
+			children = (
+				A50E12721AD6EACA00D26070 /* pattern_1.splice */,
+				A50E12731AD6EACA00D26070 /* pattern_2.splice */,
+				A50E12741AD6EACA00D26070 /* pattern_3.splice */,
+				A50E12751AD6EACA00D26070 /* pattern_4.splice */,
+				A50E12761AD6EACA00D26070 /* pattern_5.splice */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A50E126C1AD6EAAD00D26070 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = A50E126F1AD6EAAD00D26070 /* Build configuration list for PBXProject "clojure-dojo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A50E126B1AD6EAAD00D26070;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A50E12701AD6EAAD00D26070 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A50E12711AD6EAAD00D26070 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A50E126F1AD6EAAD00D26070 /* Build configuration list for PBXProject "clojure-dojo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A50E12701AD6EAAD00D26070 /* Debug */,
+				A50E12711AD6EAAD00D26070 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A50E126C1AD6EAAD00D26070 /* Project object */;
+}
